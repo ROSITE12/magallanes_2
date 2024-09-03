@@ -11,7 +11,7 @@ En el siguiente trabajo se realizó un análisis de datos semanal con los datos 
 | semana       | int64  | Semana de inicio de síntomas            |                                           |
 | sexo         | object | Sexo                                    | M = Masculino, F = Femenino               |
 | edad_grupos         | int64 | Edad del paciente                |   a_menor_a_16,b_entre_16y50,c_mayor_a_50    |
-| enfermedad_text         | int64 | Tipo de diagnóstico          | 1_SIN_SEÑALES, 2_ALARMA, 3_GRAVE                
+| enfermedad_text         | int64 | Intensidad de la enfermedad         | 1_SIN_SEÑALES, 2_ALARMA, 3_GRAVE                
 
 ## Enlace a la tarea
 ----------------------------------------------
